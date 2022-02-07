@@ -16,6 +16,6 @@
     &nbsp;
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiyu95&theme=cobalt&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
 </p>
-- 😄 Pronouns: He/Him
+
 
 
